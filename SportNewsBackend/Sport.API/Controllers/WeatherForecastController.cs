@@ -1,4 +1,5 @@
 using Microsoft.AspNetCore.Mvc;
+using SportNewsBackend.Sport.API;
 
 namespace SportNewsBackend.Controllers
 {
