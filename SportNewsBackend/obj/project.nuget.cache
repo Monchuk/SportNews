@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "OVrA5ulUx0gWBhNo+gtEzf5A4hlWSHeIZbZtQpZTcNVpgHNsII2QWfKv5BMp79WvuQvTKdj06CaDTR1B1EQbeQ==",
+  "dgSpecHash": "VGAaPdxcwrNBBsVaDddtoIF4pxTeH4/AGkTtwZU6XMrFUT8dHvjeJhbkYHByfIMvtK6XDSshxLxuC8WFWSFg6Q==",
   "success": true,
   "projectFilePath": "D:\\C#WebAPI\\SportNewsBackend\\SportNewsBackend\\SportNewsBackend.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\G.O.A.T\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
+    "C:\\Users\\G.O.A.T\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\G.O.A.T\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\G.O.A.T\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
     "C:\\Users\\G.O.A.T\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
