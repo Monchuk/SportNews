@@ -1,12 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "VGAaPdxcwrNBBsVaDddtoIF4pxTeH4/AGkTtwZU6XMrFUT8dHvjeJhbkYHByfIMvtK6XDSshxLxuC8WFWSFg6Q==",
+  "dgSpecHash": "DSPpyYCpIdA/ZmJWYZ7VS8zQEpibBxCW4jzkjQavVnCUshiaYUtMQAYavqys9aA1uTyYfETpChQfYLl8JXbPHw==",
   "success": true,
   "projectFilePath": "D:\\C#WebAPI\\SportNewsBackend\\SportNewsBackend\\SportNewsBackend.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\G.O.A.T\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
+    "C:\\Users\\G.O.A.T\\.nuget\\packages\\fluentvalidation\\11.2.1\\fluentvalidation.11.2.1.nupkg.sha512",
+    "C:\\Users\\G.O.A.T\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.2.2\\fluentvalidation.aspnetcore.11.2.2.nupkg.sha512",
+    "C:\\Users\\G.O.A.T\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.2.1\\fluentvalidation.dependencyinjectionextensions.11.2.1.nupkg.sha512",
     "C:\\Users\\G.O.A.T\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\G.O.A.T\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\G.O.A.T\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.1.0\\microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512",
     "C:\\Users\\G.O.A.T\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
     "C:\\Users\\G.O.A.T\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
     "C:\\Users\\G.O.A.T\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
