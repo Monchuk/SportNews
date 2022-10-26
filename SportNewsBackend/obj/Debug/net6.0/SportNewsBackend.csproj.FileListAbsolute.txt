@@ -1,5 +1,3 @@
-D:\C#WebAPI\SportNewsBackend\SportNewsBackend\bin\Debug\net6.0\appsettings.Development.json
-D:\C#WebAPI\SportNewsBackend\SportNewsBackend\bin\Debug\net6.0\appsettings.json
 D:\C#WebAPI\SportNewsBackend\SportNewsBackend\bin\Debug\net6.0\SportNewsBackend.exe
 D:\C#WebAPI\SportNewsBackend\SportNewsBackend\bin\Debug\net6.0\SportNewsBackend.deps.json
 D:\C#WebAPI\SportNewsBackend\SportNewsBackend\bin\Debug\net6.0\SportNewsBackend.runtimeconfig.json
@@ -25,3 +23,7 @@ D:\C#WebAPI\SportNewsBackend\SportNewsBackend\obj\Debug\net6.0\refint\SportNewsB
 D:\C#WebAPI\SportNewsBackend\SportNewsBackend\obj\Debug\net6.0\SportNewsBackend.pdb
 D:\C#WebAPI\SportNewsBackend\SportNewsBackend\obj\Debug\net6.0\SportNewsBackend.genruntimeconfig.cache
 D:\C#WebAPI\SportNewsBackend\SportNewsBackend\obj\Debug\net6.0\ref\SportNewsBackend.dll
+D:\C#WebAPI\SportNewsBackend\SportNewsBackend\bin\Debug\net6.0\Sport.API\appsettings.Development.json
+D:\C#WebAPI\SportNewsBackend\SportNewsBackend\bin\Debug\net6.0\Sport.API\appsettings.json
+D:\C#WebAPI\SportNewsBackend\SportNewsBackend\bin\Debug\net6.0\Sport.API\mailsettings.json
+D:\C#WebAPI\SportNewsBackend\SportNewsBackend\bin\Debug\net6.0\Sport.API\Properties\launchSettings.json

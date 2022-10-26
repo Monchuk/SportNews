@@ -10,4 +10,34 @@
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.2.3" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Sport.API\Constraints\" />
+    <Folder Include="Sport.API\Convention\" />
+    <Folder Include="Sport.API\Converters\" />
+    <Folder Include="Sport.API\Filters\" />
+    <Folder Include="Sport.API\HealthChecks\" />
+    <Folder Include="Sport.API\Middlewares\" />
+    <Folder Include="Sport.API\wwwroot\" />
+    <Folder Include="Sport.API\Swagger\" />
+    <Folder Include="Sport.API\ServiceConfigurations\" />
+    <Folder Include="Sport.Business\ApiClientConfigurations\" />
+    <Folder Include="Sport.Business\Authorization\" />
+    <Folder Include="Sport.Business\Exceptions\" />
+    <Folder Include="Sport.Business\Filters\" />
+    <Folder Include="Sport.Business\Mappings\" />
+    <Folder Include="Sport.Business\Utils\" />
+    <Folder Include="Sport.Business\Services\" />
+    <Folder Include="Sport.DataAccess\Entities\" />
+    <Folder Include="Sport.DataAccess\EntityFramework\" />
+    <Folder Include="Sport.DataAccess\Enumerations\" />
+    <Folder Include="Sport.DataAccess\Migrations\" />
+    <Folder Include="Sport.DataAccess\Models\" />
+    <Folder Include="Sport.DataAccess\Repositories\" />
+    <Folder Include="Sport.DataTransfer\ApiClients\" />
+    <Folder Include="Sport.DataTransfer\Dtos\" />
+    <Folder Include="Sport.DataTransfer\Validators\" />
+    <Folder Include="Sport.DataTransfer\Responses\" />
+    <Folder Include="Sport.DataTransfer\Requests\" />
+  </ItemGroup>
+
 </Project>
