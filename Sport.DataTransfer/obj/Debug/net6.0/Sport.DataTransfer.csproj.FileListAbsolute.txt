@@ -1,0 +1,17 @@
+D:\Lessons C#\SportNewsBackend\Sport.DataTransfer\bin\Debug\net6.0\Sport.DataTransfer.deps.json
+D:\Lessons C#\SportNewsBackend\Sport.DataTransfer\bin\Debug\net6.0\Sport.DataTransfer.runtimeconfig.json
+D:\Lessons C#\SportNewsBackend\Sport.DataTransfer\bin\Debug\net6.0\Sport.DataTransfer.dll
+D:\Lessons C#\SportNewsBackend\Sport.DataTransfer\bin\Debug\net6.0\Sport.DataTransfer.pdb
+D:\Lessons C#\SportNewsBackend\Sport.DataTransfer\bin\Debug\net6.0\Sport.DataAccess.dll
+D:\Lessons C#\SportNewsBackend\Sport.DataTransfer\bin\Debug\net6.0\Sport.DataAccess.pdb
+D:\Lessons C#\SportNewsBackend\Sport.DataTransfer\obj\Debug\net6.0\Sport.DataTransfer.csproj.AssemblyReference.cache
+D:\Lessons C#\SportNewsBackend\Sport.DataTransfer\obj\Debug\net6.0\Sport.DataTransfer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lessons C#\SportNewsBackend\Sport.DataTransfer\obj\Debug\net6.0\Sport.DataTransfer.AssemblyInfoInputs.cache
+D:\Lessons C#\SportNewsBackend\Sport.DataTransfer\obj\Debug\net6.0\Sport.DataTransfer.AssemblyInfo.cs
+D:\Lessons C#\SportNewsBackend\Sport.DataTransfer\obj\Debug\net6.0\Sport.DataTransfer.csproj.CoreCompileInputs.cache
+D:\Lessons C#\SportNewsBackend\Sport.DataTransfer\obj\Debug\net6.0\Sport.DataTransfer.csproj.CopyComplete
+D:\Lessons C#\SportNewsBackend\Sport.DataTransfer\obj\Debug\net6.0\Sport.DataTransfer.dll
+D:\Lessons C#\SportNewsBackend\Sport.DataTransfer\obj\Debug\net6.0\refint\Sport.DataTransfer.dll
+D:\Lessons C#\SportNewsBackend\Sport.DataTransfer\obj\Debug\net6.0\Sport.DataTransfer.pdb
+D:\Lessons C#\SportNewsBackend\Sport.DataTransfer\obj\Debug\net6.0\Sport.DataTransfer.genruntimeconfig.cache
+D:\Lessons C#\SportNewsBackend\Sport.DataTransfer\obj\Debug\net6.0\ref\Sport.DataTransfer.dll
