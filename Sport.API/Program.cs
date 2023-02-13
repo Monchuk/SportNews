@@ -19,6 +19,9 @@ var connectionString = builder.Configuration.GetConnectionString("DefaultConnect
 builder.Services.AddDbContext<ApplicationDbContext>(opts =>
         opts.UseSqlServer(connectionString, options => options.MigrationsAssembly("Sport.DataAccess")));
 
+builder.Services.AddAuthentication();
+builder.Services.ConfigureIdentity();
+
 
 var app = builder.Build();
 
@@ -31,6 +34,7 @@ if (app.Environment.IsDevelopment())
 
 app.UseHttpsRedirection();
 
+app.UseAuthentication();
 app.UseAuthorization();
 
 app.MapControllers();
