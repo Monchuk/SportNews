@@ -486,8 +486,3 @@ $RECYCLE.BIN/
 tools/
 .tools/
 .config/
-Tests/GlobalSuppressions.cs
-CvProject/Properties/ServiceDependencies/hrizer-api-dev - Zip Deploy/profile.arm.json
-CvProject/Properties/ServiceDependencies/hrizer-api-dev - Zip Deploy1/profile.arm.json
-CvProject/Properties/ServiceDependencies/hrizer-api-test - Zip Deploy2/profile.arm.json
-CvProject/Properties/ServiceDependencies/hrizer-api-dev - Zip Deploy2/profile.arm.json
