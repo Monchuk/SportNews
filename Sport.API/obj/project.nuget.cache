@@ -2,7 +2,7 @@
   "version": 2,
   "dgSpecHash": "2+7jZDPBOMilmmZUynyE+gLg1HdtP3zDw/MZ4V+RxXKRjFU6D5FWNN2rvuI6mPDUsEsoOH4/reYeyRYJiooRvg==",
   "success": true,
-  "projectFilePath": "D:\\Lessons C#\\SportNewsBackend\\Sport.API\\Sport.API.csproj",
+  "projectFilePath": "/Users/marian/Desktop/SportNews/Sport.API/Sport.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\olegi\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\olegi\\.nuget\\packages\\fluentvalidation\\11.5.1\\fluentvalidation.11.5.1.nupkg.sha512",
