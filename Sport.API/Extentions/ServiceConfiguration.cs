@@ -16,14 +16,6 @@ namespace Sport.API.Extentions
             
             services.AddScoped<IIdentityManager, IdentityManager>();
 
-            ////TODO
-            //services.AddFluentValidationAutoValidation(config =>
-            //{
-            //    config.DisableDataAnnotationsValidation = true;
-            //});
-            //services.AddFluentValidationAutoValidation();
-           // services.AddScoped<IValidator<SignUpRequest>, SignUpValidator>();
-         
         }
     }
 }

@@ -32,10 +32,9 @@ builder.Services.AddSwaggerGen();
 
 builder.Services.ConfigureValidation();
 
-// Підключення сервера
+
 var connectionString = builder.Configuration.GetConnectionString("DefaultConnection");
-//builder.Services.AddDbContext<ApplicationDbContext>(x => x.UseSqlServer(connectionString),
-//            y => y.MigrationsAssembly("WebApplication1.Migrations"));
+
 builder.Services.AddDbContext<ApplicationDbContext>(opts =>
         opts.UseSqlServer(connectionString, options => options.MigrationsAssembly("Sport.DataAccess")));
 

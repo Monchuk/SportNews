@@ -28,14 +28,6 @@ namespace Sport.API.Controllers
             _mapper = mapper;
         }
 
-        //[HttpPost("sign-up")]
-        //public async Task<IActionResult> SignUp([FromBody]SignUpRequest request)
-        //{
-        //    var userResult = await _identityManager.RegisterUserAsync(request);
-
-        //    return Created("",null);
-
-        //}
         [HttpPost("sign-up")]
         public async Task<ActionResult<TokenDto>> SignUp([FromBody] SignUpRequest request)
         {
@@ -47,7 +39,6 @@ namespace Sport.API.Controllers
             return new TokenDto { Token = await _identityManager.CreateTokenAsync(userResult) }; 
 
         }
-
 
         [HttpPost("sign-in")]
         public async Task<ActionResult<TokenDto>> SignIn([FromBody] SignInRequest request)
@@ -65,9 +56,6 @@ namespace Sport.API.Controllers
         [HttpGet("me")]
         public async Task<ActionResult<UserInfoDto>> UserInfo()
         {
-            //var userId = User.FindFirst("Id")?.Value;
-            //var user = await _userManager.GetUserById(userId);
-            //return _mapper.Map<UserInfoDto>(user);
             var userName = User.FindFirst(ClaimTypes.Name)?.Value;
             var user = await _userManager.FindByNameAsync(userName);
 
